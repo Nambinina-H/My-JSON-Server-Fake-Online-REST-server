@@ -1,0 +1,54 @@
+{
+"vehicles": [
+    {
+      "id": 1,
+      "nickname": "Mon Véhicule",
+      "model": "Modèle Fictif",
+      "brand": "Marque Fictive",
+      "manufacturingYear": 2020,
+      "vehicleType": "Camion",
+      "licensePlateNumber": "AB123CD",
+      "chassisNumber": "12345678901234567"
+    }
+  ],
+"gpsInfo": [
+    {
+      "id": 1,
+      "odometerKM": 50000,
+      "fuelTankCapacity": 60,
+      "fuelType": "Essence",
+      "speedLimitKMH": 120,
+      "gpsSIMNumber": "1234567890",
+      "gpsIMEI": "ABCDEFGHIJKLMN"
+    }
+  ],
+ "maintenanceInfo": [
+    {
+      "id": 1,
+      "maintenanceThreshold": 10000,
+      "lastMaintenanceDate": "2023-01-15",
+      "maintenanceNotificationFrequency": "5000 KM",
+      "maintenanceType": "Révision",
+      "maintenanceCost": 200,
+      "maintenanceStatus": "En cours",
+      "maintenanceDescription": "Révision générale du véhicule."
+    }
+  ],
+  "documentsInfo": [
+    {
+      "id": 1,
+      "leaseContract": true,
+      "insuranceContract": true,
+      "maintenanceInvoice": true,
+      "vehiclePhoto": true,
+      "damagePhotos": true
+    }
+  ],
+  "workingHoursInfo": [
+    {
+      "id": 1,
+      "workHoursStart": 8,
+      "workHoursEnd": 18
+    }
+  ]
+}
