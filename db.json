@@ -1,5 +1,5 @@
 {
-"vehicles": [
+"vehicule": [
     {
       "id": 1,
       "nickname": "Mon Véhicule",
@@ -34,7 +34,7 @@
       "maintenanceDescription": "Révision générale du véhicule."
     }
   ],
-  "documentsInfo": [
+  "documentInfo": [
     {
       "id": 1,
       "leaseContract": true,
